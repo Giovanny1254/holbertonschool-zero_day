@@ -1,1 +1,0 @@
-This project is about the Vagrant and Github tools and their functionalities, so that initialize a virtual machine and create and keep track of projects were created
