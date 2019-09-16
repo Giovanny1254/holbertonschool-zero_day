@@ -1,0 +1,1 @@
+This project is about the vi editor and its commands to perform their functionalities 
