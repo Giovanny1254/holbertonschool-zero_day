@@ -1,0 +1,1 @@
+This project is about git and github functionalities to be usable in a project
