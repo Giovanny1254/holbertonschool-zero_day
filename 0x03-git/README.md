@@ -1,1 +1,0 @@
-This project is about git and github tools, their functionalities and concepts to be usable as efficient resources to work into a project
