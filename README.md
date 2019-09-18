@@ -1,1 +1,1 @@
-Foundations skills to start to be a fullstack developer
+Foundations resources and skills to start to become a fullstack developer
