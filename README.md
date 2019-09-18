@@ -1,1 +1,2 @@
-**This file is mandatory in all Holberton School projects**
+**Foundations skills to start to be a fullstack developer
+**
