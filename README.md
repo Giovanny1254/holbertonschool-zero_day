@@ -6,5 +6,5 @@ CONTENTS
 2. USING EMACS
 3. LEARN ABOUT VI
 4. LEARN ABOUT GIT AND GITHUB 
-5 otra cosa
-6 otra cosa
+5. otra cosa
+6. otra cosa
