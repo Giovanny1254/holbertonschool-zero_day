@@ -1,1 +1,1 @@
-This project is about git and github functionalities to be usable in a project
+This file is mandatory in all holberton school projects
